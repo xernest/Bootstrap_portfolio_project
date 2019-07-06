@@ -124,15 +124,15 @@ background-color: rgba(0, 0, 0, 0.5);
    
 }
 .contact_text h3{
-    font-size: 40px;
+    font-size: 4vw;
     font-weight: bold;
 }
 .contact_text h4{
-    font-size: 35px;
+    font-size: 3vw;
 }
 .contact_header h2{
     font-family: 'Staatliches' !important;
-    font-size: 50px;
+    font-size: 4vw;
     text-align: center;
     margin-bottom: 20px;
     color: white;
